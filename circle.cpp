@@ -18,7 +18,7 @@ double calculateCircleArea(double radius) {
 double calculateSectorArea(double radius, double angle) {
     return (M_PI * radius * radius * angle) / 360.0;
 }
-
+//for
 int main() {
     int choice;
     double radius, angle;
